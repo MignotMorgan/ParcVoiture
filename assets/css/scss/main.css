@@ -1,0 +1,27 @@
+.main--voitures div {
+  display: inline-block;
+  width: 300px;
+  margin: 5px;
+}
+
+.main--voitures div img {
+  width: 100%;
+  height: 100%;
+}
+
+.main--voiture section div {
+  width: 400px;
+}
+
+.main--voiture section div img {
+  width: 100%;
+}
+
+.main--voiture section p label {
+  display: block;
+}
+
+.main--voiture section p .lbl--info {
+  margin-bottom: 5px;
+}
+/*# sourceMappingURL=main.css.map */
